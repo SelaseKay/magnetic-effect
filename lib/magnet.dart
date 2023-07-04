@@ -16,7 +16,7 @@ class Magnet extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return AnimatedPositioned(
-              duration: const Duration(milliseconds: 200),
+              duration: const Duration(milliseconds: 150),
               left: left,
               top: top,
               child: GestureDetector(
