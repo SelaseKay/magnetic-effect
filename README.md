@@ -1,4 +1,4 @@
-# grid_draggable
+# magnetic-effect
 
 A new Flutter project.
 
